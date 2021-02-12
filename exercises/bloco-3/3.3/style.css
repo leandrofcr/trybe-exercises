@@ -1,0 +1,36 @@
+.super-mario{
+    position:absolute;
+    width: 300px;
+}
+
+.goomba{
+    position: absolute;
+    width: 200px;
+    left:150px;
+    top: 500px;     
+}
+
+.baloon{
+    position:absolute;
+    top: 800px;
+    left: 700px;
+    z-index: 1;
+}
+
+.word{
+    position: absolute;
+    top: 835px;
+    left: 720px;
+    z-index: 2;
+}
+
+.bowser{
+    position: absolute;
+    width: 500px;
+    left: 1000px;
+    top: 800px;
+}
+
+p{
+    font-size: 25px;
+}
