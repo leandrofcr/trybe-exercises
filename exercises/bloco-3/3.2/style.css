@@ -1,0 +1,26 @@
+h1{
+    color:orange;
+    font-family: sans-serif;     
+  }
+  #list{
+      background-color: paleturquoise;
+  }
+  .paragraph-list {
+      background-color:royalblue;
+  }
+  p {
+      font-weight:  600px;
+      font-size: 3em;
+  }
+  body {
+      font-size: 16px;
+  }
+  #yellow { 
+      background-color: yellow;
+  }
+  #red {
+      background-color: red;
+  }
+  #brown {
+      background-color: brown;
+  }
