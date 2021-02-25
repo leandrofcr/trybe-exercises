@@ -6,5 +6,5 @@ for (let index = 0; index < numbers.length; index += 1) {
     numbersSum += numbers[index];
     
 }
-
-console.log(numbersSum)
+let numbersAverage = (numbersSum/numbers.length);
+console.log(numbersAverage);
