@@ -11,18 +11,34 @@
 // }
 // console.log(verificaPalindrome('arara'));
 
-//EXERCICIO 2
+// //EXERCICIO 2
+// function verificaMaiorNum (array){
+//   let maiorIndice = 0;
+//   for (let key in array){
+//     if  (array[maiorIndice] < array[key]){
+//       maiorIndice = key;
+//     } else {
+      
+//     }
+// }
+// return maiorIndice;
+// }
+
+// let arrayTeste = [2, 3, 6, 7, 10, 1];
+// console.log(verificaMaiorNum(arrayTeste));
+
+//EXERCICIO 3
 function verificaMaiorNum (array){
-  let maiorNum = null;
-  for (let index = 0; index < array.length -1; index += 1){
-    if  (array[index] > maiorNum){
-      maiorNum = array[index];
+  let maiorIndice = 0;
+  for (let key in array){
+    if  (array[maiorIndice] > array[key]){
+      maiorIndice = key;
     } else {
       
     }
 }
-return maiorNum;
+return maiorIndice;
 }
 
-let arrayTeste = [2, 4, 6, 7, 10, 0, -3];
-console.log(verificaMaiorNum(arrayTeste));
+let arrayTeste2 = [2, 4, 6, 7, 10, 0, -3];
+console.log(verificaMaiorNum(arrayTeste2));
