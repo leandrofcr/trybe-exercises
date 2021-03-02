@@ -18,7 +18,7 @@
 //     if  (array[maiorIndice] < array[key]){
 //       maiorIndice = key;
 //     } else {
-      
+
 //     }
 // }
 // return maiorIndice;
@@ -28,17 +28,30 @@
 // console.log(verificaMaiorNum(arrayTeste));
 
 //EXERCICIO 3
-function verificaMaiorNum (array){
-  let maiorIndice = 0;
-  for (let key in array){
-    if  (array[maiorIndice] > array[key]){
-      maiorIndice = key;
-    } else {
-      
+// function verificaMaiorNum (array){
+//   let maiorIndice = 0;
+//   for (let key in array){
+//     if  (array[maiorIndice] > array[key]){
+//       maiorIndice = key;
+//     } 
+// }
+// return maiorIndice;
+// }
+
+// let arrayTeste2 = [2, 4, 6, 7, 10, 0, -3];
+// console.log(verificaMaiorNum(arrayTeste2));
+
+
+//EXERCICIO 4
+
+function verificaNomes(nomes) {
+  maiorNome = '';
+  for (let key in nomes) {
+    if (nomes[key].length > maiorNome.length) {
+      maiorNome = nomes[key];
     }
-}
-return maiorIndice;
+  }
+  return maiorNome;
 }
 
-let arrayTeste2 = [2, 4, 6, 7, 10, 0, -3];
-console.log(verificaMaiorNum(arrayTeste2));
+console.log(verificaNomes(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']));
