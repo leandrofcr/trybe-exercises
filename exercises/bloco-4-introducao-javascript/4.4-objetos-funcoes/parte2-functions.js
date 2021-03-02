@@ -44,14 +44,39 @@
 
 //EXERCICIO 4
 
-function verificaNomes(nomes) {
-  maiorNome = '';
-  for (let key in nomes) {
-    if (nomes[key].length > maiorNome.length) {
-      maiorNome = nomes[key];
+// function verificaNomes(nomes) {
+//   maiorNome = '';
+//   for (let key in nomes) {
+//     if (nomes[key].length > maiorNome.length) {
+//       maiorNome = nomes[key];
+//     }
+//   }
+//   return maiorNome;
+// }
+
+// console.log(verificaNomes(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']));
+
+
+//EXERCICIO 5
+
+function maisRepetido(numeros) {
+  let contRepetido = 0;
+  let contNumero = 0;
+  let indexNumeroRepetido = 0;
+  for (let index in numeros) {
+    let verificaNumero = numeros[index];
+    for (let index2 in numeros) {
+      if (verificaNumero === numeros[index2]) {
+        contNumero++;
+      }
     }
+    if (contNumero > contRepetido) {
+      contRepetido = contNumero;
+      indexNumeroRepetido = index;
+    }
+    contNumero = 0;
   }
-  return maiorNome;
+  return numeros[indexNumeroRepetido];
 }
 
-console.log(verificaNomes(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']));
+console.log(maisRepetido([2, 3, 2, 5, 8, 2, 3]));
