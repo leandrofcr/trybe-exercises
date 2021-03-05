@@ -50,14 +50,14 @@ function createDaysOfMonth() {
 
 createDaysOfMonth();
 
-function createButton() {
+function createHolidaysButton() {
   let button = document.createElement('button');
   button.innerText = 'Feriados';
   button.id = "btn-holiday";
   document.querySelector('.buttons-container').appendChild(button);
 }
 
-createButton();
+createHolidaysButton();
 
 function holidayHighlight() {
   let counter = 0;
@@ -70,5 +70,35 @@ function holidayHighlight() {
     }
   }
 }
+
 let holidayButton = document.querySelector('#btn-holiday');
 holidayButton.addEventListener('click', holidayHighlight);
+
+
+function createfridaysButton() {
+  let button = document.createElement('button');
+  button.innerText = 'Sexta-feira';
+  button.id = "btn-friday";
+  document.querySelector('.buttons-container').appendChild(button);
+}
+
+createfridaysButton();
+
+
+function fridayHighlight() {
+  let counter = 0;
+  let fridayList = document.getElementsByClassName('day-friday');
+ 
+  for (let i = 0; i < fridayList.length; i += 1) {
+    if (fridayList[i].innerText !== 'SEXTOU !!!') {
+      fridayList[i].innerText = 'SEXTOU !!!';
+    } else {
+      fridayList[i].innerText = fridayDays[i].innerText;
+      console.log(fridayDays[i]);
+    }
+  }
+}
+
+
+let fridayButton = document.querySelector('#btn-friday');
+fridayButton.addEventListener('click', fridayHighlight);
