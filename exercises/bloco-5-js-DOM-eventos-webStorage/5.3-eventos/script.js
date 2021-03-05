@@ -51,10 +51,24 @@ function createDaysOfMonth() {
 createDaysOfMonth();
 
 function createButton() {
-  const button = document.createElement('button');
+  let button = document.createElement('button');
   button.innerText = 'Feriados';
-  button.idName = "btn-holiday";
+  button.id = "btn-holiday";
   document.querySelector('.buttons-container').appendChild(button);
 }
 
 createButton();
+
+function holidayHighlight() {
+  let counter = 0;
+  let holidayList = document.getElementsByClassName('day-holiday');
+  for (let i = 0; i < holidayList.length; i += 1) {
+    if (holidayList[i].style.backgroundColor !== 'cyan') {
+      holidayList[i].style.backgroundColor = 'cyan';
+    } else {
+      holidayList[i].style.backgroundColor = 'rgb(238,238,238)';
+    }
+  }
+}
+let holidayButton = document.querySelector('#btn-holiday');
+holidayButton.addEventListener('click', holidayHighlight);
