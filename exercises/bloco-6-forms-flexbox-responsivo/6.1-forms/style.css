@@ -60,3 +60,8 @@ button {
 button:hover {
   background-color: rgb(128 , 165 , 128);
 }
+
+legend{
+  font-size: 18px;
+  font-weight: 600;
+}
