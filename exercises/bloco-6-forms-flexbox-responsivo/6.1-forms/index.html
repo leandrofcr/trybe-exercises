@@ -11,52 +11,52 @@
 <body>
   <form action="GET" enctype="multipart/form-data">
     <fieldset>
+      <legend>Dados pessoais</legend>
 
-      <label for="name"> Nome:
-        <input type="text" name="name" id="name" placeholder="Jon Snow" required>
-      </label> <br>
-
-      <label for="email"> Email:
-        <input type="email" name="email" placeholder="jonsnow@email.com" id="email">
-      </label> <br>
-
-      <label for="cpf"> CPF:
-        <input type="numbers" name="cpf"  id="cpf" maxlength="14">
-      </label> <br>
-
-      <label for="andress"> Endereço:
-        <input type="text" name="andress" id="andress" maxlength="200" >
-      </label><br>
-
-      <label for="city"> Cidade:
-        <input type="text" name="city" id="city">
-      </label><br>
-
-      <label for="state"> Cidade:
-        <select name="state" id="state">
-
-        </select>
+      <label for="fullName"> Nome</label>
+      <input type="text" name="name" id="fullName" placeholder="Jon Snow" required>
+      <br>
+      <label for="email"> Email</label>
+      <input type="email" name="email" placeholder="jonsnow@email.com" id="email">
+      <br>
+      <label for="cpfNumbers"> CPF</label>
+      <input type="numbers" name="cpf" id="cpfNumbers" maxlength="14">
+      <br>
+      <label for="andress"> Endereço</label>
+      <input type="text" name="andress" id="andress" maxlength="200">
+      <br>
+      <label for="city"> Cidade</label>
+      <input type="text" name="city" id="city">
+      <br>
+      <label for="state"> Estado</label>
+      <select name="state" id="state">
+      </select>
       </label>
-      <label for="city"> Tipo:
-        <input type="radio" name="type" value="cs"> Casa
-      </label>
-      <label for="city">
-        <input type="radio" name="type" value="ap"> Apartamento
-      </label>
-
+      <label for="city"> Tipo</label>
+      <input type="radio" name="type" value="cs"> Casa
+      <label for="city"></label>
+      <input type="radio" name="type" value="ap"> Apartamento
     </fieldset>
 
+    <fieldset>
+      <legend>Histório Profissional</legend>
 
+      <label for="abstract">Resumo</label>
+      <textarea name="resumo" id="abstract" cols="30" rows="10" maxlength="1000"></textarea>
+      <br>
+      <label for="cargo"> Cargo</label>
+      <input type="text" name="cargo" id="cargo" maxlength="40">
+      <br>
+      <label for="date"> Data de início</label>
+      <input type="text" name="initialDate" id="date" maxlength="40">
+      <br>
+      <label for="descricaoCargo"> Cargo</label>
+      <textarea name="descricao-cargo" id="descricaoCargo" cols="30" rows="10" maxlength="500"></textarea>
+      <br>
+    </fieldset>
 
-
-
-
-
-
-
+    <button type="submit">Enviar</button>
   </form>
-
-
 
 </html>
 
