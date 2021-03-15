@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(43, 47, 51);
+  background-color: rgb(78 , 141 , 78);
   font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
@@ -8,9 +8,11 @@ main {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
-  /* background-color: rgb(75, 79, 80); */
-  color: rgb(238, 231, 231);
+  background-color: rgb(238 , 239 , 240);
+  color: rgb(37, 37, 37);
   position: relative;
+  border-radius: 30px;
+  padding: 5%;
 }
 
 fieldset {
@@ -19,6 +21,7 @@ fieldset {
 
 header {
   text-align: center;
+  padding: 5px;
 }
 
 input,
@@ -49,4 +52,11 @@ button {
   font-size: 16px;
   margin-left: auto;
   margin-right: auto;
+  background-color: rgb(78 , 141 , 78);
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(128 , 165 , 128);
 }

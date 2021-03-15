@@ -10,8 +10,7 @@
   <link rel="stylesheet" href="style.css">
 
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -27,25 +26,25 @@
 
           <label for="fullName"> Nome</label>
           <input type="text" name="name" id="fullName" placeholder="Jon Snow" required>
-          <br>
+          
           <label for="email"> Email</label>
-          <input type="email" name="email" placeholder="jonsnow@email.com" id="email">
-          <br>
+          <input type="email" name="email" placeholder="jonsnow@email.com" id="email" required>
+          
           <label for="cpfNumbers"> CPF</label>
-          <input type="numbers" name="cpf" id="cpfNumbers" maxlength="14">
-          <br>
+          <input type="numbers" name="cpf" id="cpfNumbers" maxlength="14" required><br>
+          
           <label for="andress"> Endereço</label>
-          <input type="text" name="andress" id="andress" maxlength="200" placeholder="Rua, número, bairro">
-          <br>
+          <input type="text" name="andress" id="andress" maxlength="200" placeholder="Rua, número, bairro" required>
+          
           <label for="city"> Cidade</label>
-          <input type="text" name="city" id="city">
-          <br>
+          <input type="text" name="city" id="city" required>
+          
           <label for="state"> Estado</label>
-          <select name="state" id="state">
+          <select name="state" id="state" required>
           </select>
-          </label>
+          </label><br>
           <label for="city"> Tipo</label>
-          <input type="radio" name="type" value="cs"> Casa
+          <input type="radio" name="type" value="cs" checked> Casa
           <label for="houseType"></label>
           <input type="radio" name="houseType" value="ap"> Apartamento
         </fieldset>
@@ -54,20 +53,23 @@
           <legend>Histório Profissional</legend>
 
           <label for="abstract">Resumo</label>
-          <textarea name="resumo" id="abstract" cols="30" rows="10" maxlength="1000" placeholder="Um resumo do seu histório profissional em 1000 caracteres ou menos."></textarea>
+          <textarea name="resumo" id="abstract" cols="30" rows="10" maxlength="1000"
+            placeholder="Um resumo do seu histório profissional em 1000 caracteres ou menos." required></textarea>
           <br>
           <label for="cargo"> Cargo</label>
-          <input type="text" name="cargo" id="cargo" maxlength="40">
-          
+          <input type="text" name="cargo" id="cargo" maxlength="40" required>
+
           <label for="date"> Data de início</label>
-          <input type="text" name="initialDate" id="date" maxlength="40" placeholder="dd/xx/aaaa">
+          <input type="text" name="initialDate" id="date" placeholder="dd/mm/aaaa" maxlength="10" required >
           <br>
           <label for="descricaoCargo"> Descrição do cargo</label>
-          <textarea name="descricao-cargo" id="descricaoCargo" cols="30" rows="10" maxlength="500" placeholder="Descreva suas resposabilidades e atividades diárias"></textarea>
+          <textarea name="descricao-cargo" id="descricaoCargo" cols="30" rows="10" maxlength="500"
+            placeholder="Descreva suas resposabilidades e atividades diárias" required></textarea>
           <br>
+          <button type="submit" id="submitButton">Enviar</button>
         </fieldset>
-
-        <button type="submit">Enviar</button>
+        
+        
       </form>
     </section>
   </main>
