@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(78 , 141 , 78);
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+main {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(238 , 239 , 240);
+  color: rgb(37, 37, 37);
+  position: relative;
+  border-radius: 30px;
+  padding: 5%;
+}
+
+fieldset {
+  border: solid 1px grey;
+}
+
+header {
+  text-align: center;
+  padding: 5px;
+}
+
+input,
+label,
+select {
+  margin-top: 15px;
+  margin-left: 15px;
+  padding: 5px;
+}
+
+fieldset {
+  margin-top: 25px;
+  padding: 30px;
+}
+
+textarea {
+  margin-left: 15px;
+  width: 90%;
+  height: 100px;
+  resize: none;
+  display: block;
+}
+
+button {
+  display: block;
+  margin-top: 30px;
+  padding: 7px 15px;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(78 , 141 , 78);
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(128 , 165 , 128);
+}
+
+legend{
+  font-size: 18px;
+  font-weight: 600;
+}
