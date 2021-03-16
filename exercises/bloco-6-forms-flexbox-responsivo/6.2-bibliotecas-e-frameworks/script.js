@@ -83,23 +83,3 @@ cpf.addEventListener('keypress', function () {
 });
 
 
-const date = document.getElementById('date');
-date.addEventListener('keypress', function () {
-
-  if (date.value.length === 2) {
-    date.value += '/';
-
-  } else if (date.value.length === 5) {
-    date.value += '/';
-  }
-});
-const submitButton = document.getElementById('submitButton');
-submitButton.addEventListener('click', function () {
-  let day = parseInt(date.value[0] + date.value[1]);
-  let month = parseInt(date.value[3] + date.value[4]);
-  let year = parseInt(date.value[6] + date.value[7] + date.value[8] + date.value[9]);
-
-  if (day <= 0 || day > 31 || month < 0 || month > 12 || year < 0) {
-    alert('Por favor insira uma data válida')
-  }
-});

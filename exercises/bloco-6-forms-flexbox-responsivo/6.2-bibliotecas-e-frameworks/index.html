@@ -10,13 +10,17 @@
   <link rel="stylesheet" href="bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css">
   <script src=""></script>
   <script src="bootstrap-5.0.0-beta2-dist/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css">
 
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
 </head>
 
 <body>
   <main>
     <header>
-      <h1 class="display-4 text-muted">Exercício 6.2 | Aplicando uma biblioteca </h1>
+      <h1 class="display-4 text-muted">Exercício 6.2 | Utilizando a biblioteca Bootstrap
 
     </header>
     <section class="form-container">
@@ -28,10 +32,10 @@
           <input class="form-control" type="text" name="name" id="fullName" placeholder="Jon Snow" required>
 
           <label class="form-group" for="email"> Email</label>
-          <input class="form-control" type="email" name="email" placeholder="jonsnow@email.com" id="email" required>
+          <input class="form-control " type="email" name="email" placeholder="jonsnow@email.com" id="email" required>
 
           <label class="form-group" for="cpfNumbers"> CPF</label>
-          <input class="form-control" type="numbers" name="cpf" id="cpfNumbers" maxlength="14" required><br>
+          <input class="form-control" type="numbers" name="cpf" id="cpfNumbers" maxlength="14" required>
 
           <label class="form-group" for="andress"> Endereço</label>
           <input class="form-control" type="text" name="andress" id="andress" maxlength="200"
@@ -41,13 +45,14 @@
           <input class="form-control" type="text" name="city" id="city" required>
 
           <label class="form-group" for="state"> Estado</label>
-          <select class="form-control" name="state" id="state" required>
+          <select class="form-control w-25" name="state" id="state" required>
           </select>
-          </label><br>
+          </label>
           <label class="form-group" for="cs"> Tipo <input class="" type="radio" name="houseType" value="cs" checked>
             Casa</label>
 
           <label class="form-group" for="ap"><input type="radio" name="houseType" value="ap"> Apartamento</label>
+          
 
         </fieldset>
 
@@ -57,20 +62,20 @@
           <label class="form-group" for="abstract">Resumo</label>
           <textarea class="form-control" name="resumo" id="abstract" cols="30" rows="10" maxlength="1000"
             placeholder="Um resumo do seu histório profissional em 1000 caracteres ou menos." required></textarea>
-          <br>
+          
           <label class="form-group" for="cargo"> Cargo</label>
           <input class="form-control" type="text" name="cargo" id="cargo" maxlength="40" required>
 
           <label class="form-group" for="date"> Data de início</label>
-          <input class="form-control" type="text" name="initialDate" id="date" placeholder="dd/mm/aaaa" maxlength="10"
+          <input class="form-control" type="text" name="initialDate" id="datepicker" maxlength="10"
             required>
-          <br>
+          
           <label class="form-group" for="descricaoCargo"> Descrição do cargo</label>
           <textarea class="form-control" name="descricao-cargo" id="descricaoCargo" cols="30" rows="10" maxlength="500"
             placeholder="Descreva suas resposabilidades e atividades diárias em 500 caracteres ou menos."
             required></textarea>
-          <br>
-          <button class="btn btn-success btn" type="submit" id="submitButton">Enviar</button>
+          
+          <button class="btn btn-primary" type="submit" id="submitButton">Enviar</button>
         </fieldset>
 
 
@@ -81,4 +86,5 @@
 </html>
 
 <script src="script.js"></script>
+<script src="node_modules/pikaday/pikaday.js"></script>
 </body>
