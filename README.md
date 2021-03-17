@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leandro Reis](https://www.linkedin.com/leandrofcr/)_ durante o curso de desenvolvimento web na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leandro Reis](https://www.linkedin.com/in/leandrofcr/){:target="_blank"}_ durante o curso de desenvolvimento web na [Trybe](https://www.betrybe.com/){:target="_blank"} :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -31,7 +31,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS](https://leandrofcr.github.io/projects/project-1-lessons-learned/)_
+- [x] 3-5: _[Projeto - HTML & CSS](https://leandrofcr.github.io/projects/project-1-lessons-learned/){:target="_blank"}_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -45,11 +45,15 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [x] 5-1: _[Projeto - Meme Generator]()_
-- [x] 5-2: _[Projeto - Arte com Pixels](https://leandrofcr.github.io/projects/project-3-pixel-art/)_
-- [x] 5-3: _[Projeto - Lista de tarefas](https://leandrofcr.github.io/projects/project-4-to-do-list/)_
-- [x] 5-4: _[Projeto - Adivinhe a Cor]()_
-- [x] 5-5: _[Projeto - Carta Misteriosa]()_
+- [x] 5-1: _JavaScript - DOM e seletores_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-3: _JavaScript - Eventos_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _[Projeto - Arte com Pixels](https://leandrofcr.github.io/projects/project-3-pixel-art/){:target="_blank"}_
+- [x] 5-6: _[Projeto - Lista de tarefas](https://leandrofcr.github.io/projects/project-4-to-do-list/){:target="_blank"}_
+- [x] 5-7: _[(Bônus) Projeto - Meme Generator]()_
+- [x] 5-7: _[(Bônus) Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
 
 ## Desenvolvimento Front-end :white_check_mark:
 
@@ -72,23 +76,25 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e reduce_
-- [ ] 8-3: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-4: _[Projeto - Zoo functions]()_
+- [ ] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort_
+- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8-6: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: JavaScript Assíncrono e Promisses
 
-- [ ] 9-1: _Primeiros passos no Jest_
-- [ ] 9-2: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-3: _JavaScript Promises_
-- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
+- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
+- [ ] 9-2: _JavaScript Promises_
+- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
-- [ ] 10-1: _Jest - Testes Assíncronos_
-- [ ] 10-2: _Jest - Simulando comportamentos_
-- [ ] 10-3: _[Projeto - Jest Assíncrono e Mocking]()_
+- [ ] 10-1: _Primeiros passos no Jest_
+- [ ] 10-2: _Jest - Testes Assíncronos_
+- [ ] 10-3: _Jest - Simulando comportamentos_
+- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
 ##### Bloco 11: Introdução - React
 
