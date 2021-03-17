@@ -55,7 +55,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 5-7: _[(Bônus) Projeto - Adivinhe a Cor]()_
 - [x] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
 
-## Desenvolvimento Front-end :white_check_mark:
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 6: Introdução - Front-end
 
