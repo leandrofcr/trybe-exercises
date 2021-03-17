@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leandro Reis](https://www.linkedin.com/in/leandrofcr/){:target="_blank"}_ durante o curso de desenvolvimento web na [Trybe](https://www.betrybe.com/){:target="_blank"} :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leandro Reis](https://www.linkedin.com/in/leandrofcr/)_ durante o curso de desenvolvimento web na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -31,7 +31,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS](https://leandrofcr.github.io/projects/project-1-lessons-learned/){:target="_blank"}_
+- [x] 3-5: _[Projeto - HTML & CSS](https://leandrofcr.github.io/projects/project-1-lessons-learned/)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -49,8 +49,8 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Arte com Pixels](https://leandrofcr.github.io/projects/project-3-pixel-art/){:target="_blank"}_
-- [x] 5-6: _[Projeto - Lista de tarefas](https://leandrofcr.github.io/projects/project-4-to-do-list/){:target="_blank"}_
+- [x] 5-5: _[Projeto - Arte com Pixels](https://leandrofcr.github.io/projects/project-3-pixel-art/)_
+- [x] 5-6: _[Projeto - Lista de tarefas](https://leandrofcr.github.io/projects/project-4-to-do-list/)_
 - [x] 5-7: _[(Bônus) Projeto - Meme Generator]()_
 - [x] 5-7: _[(Bônus) Projeto - Adivinhe a Cor]()_
 - [x] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
