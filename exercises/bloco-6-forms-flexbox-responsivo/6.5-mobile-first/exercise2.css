@@ -112,3 +112,21 @@ footer {
   }
 }
 
+@media screen and (max-width: 500px) {
+  header nav {
+    display: none;
+  }
+
+  .header-container {
+    justify-content: center;
+  }
+
+  .description {
+    display: flex;
+    flex-flow: column wrap;
+  }
+
+  .main-content p {
+    margin-top: 20px;
+  }
+}
