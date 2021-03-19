@@ -124,6 +124,7 @@ footer {
   .description {
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
   }
 
   .main-content p {
