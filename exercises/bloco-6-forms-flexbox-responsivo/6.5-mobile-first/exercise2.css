@@ -48,7 +48,6 @@ nav ul li {
 }
 
 .description {
-
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -62,7 +61,8 @@ nav ul li {
   flex-flow: column wrap;
   margin-top: 50px;
 }
-.text-content{
+
+.text-content {
   width: 90%;
 }
 
@@ -72,13 +72,43 @@ nav ul li {
 }
 
 
-footer{
+footer {
   background-color: rgb(48, 55, 80);
 
 }
-.footer-content{
+
+.footer-content {
   display: flex;
   flex-flow: column wrap;
   margin: 100px 10% 0 10%;
   font-size: 15px;
 }
+
+@media screen and (max-width: 650px) and (min-width: 500px) {
+
+  header nav {
+    display: none;
+  }
+
+  .header-container {
+    justify-content: center;
+  }
+
+  .description {
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .footer-content {
+    font-size: 15px;
+  }
+}
+
