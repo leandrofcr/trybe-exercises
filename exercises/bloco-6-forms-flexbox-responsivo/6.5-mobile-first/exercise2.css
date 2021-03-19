@@ -34,8 +34,7 @@ header {
 }
 
 header p {
-  font-size: 18px;
-
+  font-family: 'Kaushan Script', cursive;
 }
 
 nav ul {
@@ -82,6 +81,11 @@ footer {
   flex-flow: column wrap;
   margin: 100px 10% 0 10%;
   font-size: 15px;
+}
+
+hr{
+  width: 20%;
+  margin: 50px auto;
 }
 
 @media screen and (max-width: 650px) and (min-width: 500px) {
