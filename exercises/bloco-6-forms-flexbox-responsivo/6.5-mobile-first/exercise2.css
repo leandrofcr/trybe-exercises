@@ -83,10 +83,26 @@ footer {
   font-size: 15px;
 }
 
-hr{
+hr {
   width: 20%;
   margin: 50px auto;
 }
+
+a {
+  opacity: 0.8;
+}
+
+a,
+a:hover,
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  opacity: 1;
+}
+
 
 @media screen and (max-width: 650px) and (min-width: 500px) {
 
