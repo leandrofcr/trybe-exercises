@@ -251,20 +251,50 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 35: Introdução - Ciência da Computação
+##### Bloco 34: Arquitetura de Computadores e Redes
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [ ] 34-1: _Introdução - Ciência da Computação_
+- [ ] 34-2: _Arquitetura de computadores_
+- [ ] 34-3: _Arquitetura de redes_
+- [ ] 34-4: _Redes de computadores, ferramentas e segurança_
+- [ ] 34-5: _[Projeto - Explorando os protocolos]()_
 
-##### Bloco 36: Python
+##### Bloco 35: Introdução à Python e Raspagem de Dados da Web
 
 - [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
+- [ ] 35-2: _Entrada e Saída de dados_
+- [ ] 35-3: _Raspagem de dados_
+- [ ] 35-4: _Testes_
 - [ ] 35-5: _[Projeto - Tech news]()_
+
+##### Bloco 36: Programação Orientada a Objetos e Padrões de Projeto
+
+- [ ] 36-1: _Introdução a programção orientada a objetos_
+- [ ] 36-2: _Programção orientada a objetos na prática_
+- [ ] 36-3: _Padrões de projeto_
+- [ ] 36-4: _[Projeto - Relatório de Estoque]()_
+
+##### Bloco 37: Algoritmos e Estrutura de Dados
+
+- [ ] 37-1: _Estrutura de Dados I - Arrays_
+- [ ] 37-2: _Estrutura de Dados I - Complexidade de Algoritmos_
+- [ ] 37-3: _Recursividade e Estratégias para solução de problemas
+- [ ] 37-4: _Algoritmos de ordenação e busca_
+- [ ] 37-5: _[Projeto - Algoritmos]()_
+
+##### Bloco 38: Estrutura de Dados: Hash e Set
+
+- [ ] 38-1: _Estrutura de Dados II - Hash maps & Dict_
+- [ ] 38-2: _Estrutura de Dados II - Set_
+- [ ] 38-3: _[Projeto - Restaurant Orders]()_
+
+##### Bloco 39: Estrutura de Dados: Pilhas, Filas e Listas
+
+- [ ] 39-1: _Estrutura de Dados III - Pilas_
+- [ ] 39-2: _Estrutura de Dados III - Nó & Listas ligadas_
+- [ ] 39-3: _Estrutura de Dados III - Listas duplamente ligadas_
+- [ ] 39-4: _Algoritmos de ordenação e busca_
+- [ ] 39-5: _[Projeto - TING - Trybe Is Not Google]()_
 
 ## Bônus
 
