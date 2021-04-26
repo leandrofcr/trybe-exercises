@@ -1,0 +1,16 @@
+{
+  "name": "bloco-10-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
