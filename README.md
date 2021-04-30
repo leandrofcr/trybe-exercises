@@ -11,7 +11,7 @@ This is my repository for exercises performed during my web development course a
 Trybe is a web development school that has a genuine commitment to the professional sucess of its students. There are more the 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
 ***
 
-## Introdução - Desenvolvimento Web :hourglass_flowing_sand:
+## Introdução - Desenvolvimento Web :heavy_check_mark:
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -92,7 +92,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
 - [x] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
