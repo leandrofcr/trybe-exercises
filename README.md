@@ -97,16 +97,16 @@ Trybe is a web development school that has a genuine commitment to the professio
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução à React
-- [ ] 11-1: _Introdução - Front End_
-- [ ] 11-2: _'Introdução - React_
-- [ ] 11-3: _'Hello, world!' no React!_
-- [ ] 11-4: _Componentes React_
-- [ ] 11-5: _[Projeto - Movie Cards Library]()_
+- [x] 11-1: _Introdução - Front End_
+- [x] 11-1: _'Introdução - React_
+- [x] 11-1: _'Hello, world!' no React!_
+- [x] 11-2: _Componentes React_
+- [x] 11-3: _[Projeto - Movie Cards Library]()_
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 12-1: _Componentes com estado e eventos_
-- [ ] 12-2: _Formulários no React_
+- [x] 12-1: _Componentes com estado e eventos_
+- [x] 12-2: _Formulários no React_
 - [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
