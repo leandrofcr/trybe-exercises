@@ -107,23 +107,23 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 - [x] 12-1: _Componentes com estado e eventos_
 - [x] 12-2: _Formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
 
-- [ ] 13-1: _Ciclo de vida de componentes em React_
-- [ ] 13-2: _React Router_
-- [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-1: _Ciclo de vida de componentes em React_
+- [x] 13-2: _React Router_
+- [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
 
 ##### Bloco 14: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 14-1: _Metodologias Ágeis_
+- [x] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes automatizados com React Testing Library
 
-- [ ] 15-1: _RTL - Primeiros passos_
-- [ ] 15-2: _RTL - Mocks e Inputs_
+- [x] 15-1: _RTL - Primeiros passos_
+- [x] 15-2: _RTL - Mocks e Inputs_
 - [ ] 15-3: _RTL - Testando React Router_
 - [ ] 15-4: _[Projeto - Testes em React]()_
 
