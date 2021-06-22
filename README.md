@@ -124,21 +124,21 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 - [x] 15-1: _RTL - Primeiros passos_
 - [x] 15-2: _RTL - Mocks e Inputs_
-- [ ] 15-3: _RTL - Testando React Router_
-- [ ] 15-4: _[Projeto - Testes em React]()_
+- [x] 15-3: _RTL - Testando React Router_
+- [x] 15-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: Gerenciamento de estado com Redux
 
-- [ ] 16-1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 16-2: _Usando o Redux no React_
-- [ ] 16-3: _Usando o Redux no React - Prática_
-- [ ] 16-4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Wallet]()_
+- [x] 16-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 16-2: _Usando o Redux no React_
+- [x] 16-3: _Usando o Redux no React - Prática_
+- [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 16-5: _Testes em React-Redux_
+- [x] 16-6: _[Projeto - Trybe Wallet]()_
 
 ##### Bloco 17: Projeto Jogo de Trivia
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [x] 17-1: _[Projeto - Jogo de Trivia]()_
 
 ##### Bloco 18: Context API e React Hooks 
 
