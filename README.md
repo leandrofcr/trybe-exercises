@@ -94,7 +94,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 10-3: _Jest - Simulando comportamentos_
 - [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 11: Introdução à React
 - [x] 11-1: _Introdução - Front End_
@@ -149,7 +149,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ##### Bloco 19: Projeto App de Receitas
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
