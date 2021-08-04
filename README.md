@@ -149,7 +149,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ##### Bloco 19: Projeto App de Receitas
 
-- [x] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas](https://www.linkedin.com/posts/leandrofcr_react-redux-frontend-activity-6824379760060186625-j91x)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
