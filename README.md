@@ -194,7 +194,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 - [x] 25-1: _Aggregation Framework - Part 1_
 - [x] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 25-3: _[Projeto - Aggregations]()_
 
 ##### Bloco 26: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
