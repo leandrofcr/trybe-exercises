@@ -199,8 +199,8 @@ Trybe is a web development school that has a genuine commitment to the professio
 ##### Bloco 26: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
 - [x] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
+- [x] 26-2: _NodeJS - Fluxo Assíncrono_
+- [x] 26-3: _NodeJS - Testes com Node.js_
 - [ ] 26-4: _Express: HTTP com Node.js_
 - [ ] 26-5: _Praticando Express_
 - [ ] 26-6: _[Projeto - Crush Manager]()_
