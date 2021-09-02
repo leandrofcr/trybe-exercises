@@ -1,7 +1,11 @@
 const express = require('express');
+const { restart } = require('nodemon');
+const Author = require('./models/Author');
+
 const app =  express();
 const port = 3000;
-const Author = require('./models/Author');
+
+app.use(express.json());
 
 app.get('/authors', async (_req, res) => {
     const authors = await Author.getAll();
@@ -18,5 +22,17 @@ app.get('/authors/:id', async (req, res) => {
 
   res.status(200).json(author);
 })
+
+app.post('/authors', async (req, res) => {
+  const { firstName, middleName, lastName } = req.body;
+
+  if(!Author.isValid(firstName, middleName, lastName)) {
+    return res.status(400).json({message: 'Dados inválidos'})
+  };
+
+  await Author.create(firstName, middleName, lastName);
+  
+  res.status(201).json({message: "Autor criado com sucesso!"})
+});
 
 app.listen(port, () => console.log('Listening on port 3000!'));
