@@ -201,23 +201,25 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 26-1: _NodeJS - Introdução_
 - [x] 26-2: _NodeJS - Fluxo Assíncrono_
 - [x] 26-3: _NodeJS - Testes com Node.js_
-- [ ] 26-4: _Express: HTTP com Node.js_
-- [ ] 26-5: _Praticando Express_
-- [ ] 26-6: _[Projeto - Crush Manager]()_
+- [x] 26-4: _Express: HTTP com Node.js_
+- [x] 26-5: _Praticando Express_
+- [x] 26-6: _[Projeto - Talker Manager]()_
 
 ##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Resful
 
-- [ ] 27-1: _Introdução - Arquitetura de Software_
-- [ ] 27-2: _Arquitetura de Software - Camada de Model_
-- [ ] 27-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 27-2: _Arquitetura web - Rest e Resful_
-- [ ] 27-3: _[Projeto - Store Manager]()_
+- [x] 27-1: _Introdução - Arquitetura de Software_
+- [x] 27-1: _Arquitetura de Software - Camada de Model_
+- [x] 27-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 27-4: _Arquitetura web - Rest e Resful_
+- [x] 27-4: _Arquitetura web - Testando as camadas_
+- [x] 27-5: _[Projeto - Store Manager]()_
 
 ##### Bloco 28: Autenticação e Upload de Arquivos
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster]()_
+- [x] 29-1: _NodeJS - JWT - (JSON Web Token)_
+- [x] 29-2: _NodeJS - Upload de arquivos com Multer_
+- [x] 29-3: _NodeJS - Testando APIs com Testes de Integração_
+- [x] 29-4: _[Projeto - Cookmaster]()_
 
 ##### Bloco 29: Deployment
 
@@ -226,32 +228,28 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [ ] 29-3: _Deploy - Gerenciadores de Processos_
 - [ ] 29-4: _[Projeto - Stranger Things]()_
 
-##### Bloco 30: Projeto - Trybeer
-
-- [ ] 30-1: _[Projeto - Trybeer]()_
-
-##### Bloco 31: Arquitetura: SOLID e ORM
+##### Bloco 30: Arquitetura: SOLID e ORM
 
 - [ ] 31-1: _Arquitetura - Princípios SOLID_
 - [ ] 31-2: _ORM - Interface da aplicação com banco de dados_
 - [ ] 31-3: _ORM - Associations_
-- [ ] 31-3: _Boas práticas na escrita de testes_
-- [ ] 31-1: _[Projeto - API de Blogs]()_
+- [ ] 31-4: _[Projeto - API de Blogs]()_
 
-##### Bloco 32: Sockets
+##### Bloco 31: Sockets
 
 - [ ] 32-1: _Arquitetura de Software - Camada de View_
 - [ ] 32-2: _Sockets - TCP/UDP & NET_
 - [ ] 32-3: _Sockets - Socket.io_
-- [ ] 32-3: _[Projeto - Webchat]()_
+- [ ] 32-4: _Sockets - Praticando Socket.io_
+- [ ] 32-5: _[Projeto - Webchat]()_
 
-##### Bloco 33: Projeto Trybeer II
+##### Bloco 32: Projeto App de Delirvery
 
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 34-1: _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 34: Arquitetura de Computadores e Redes
+##### Bloco 33: Arquitetura de Computadores e Redes
 
 - [ ] 34-1: _Introdução - Ciência da Computação_
 - [ ] 34-2: _Arquitetura de computadores_
@@ -259,7 +257,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [ ] 34-4: _Redes de computadores, ferramentas e segurança_
 - [ ] 34-5: _[Projeto - Explorando os protocolos]()_
 
-##### Bloco 35: Introdução à Python e Raspagem de Dados da Web
+##### Bloco 34: Introdução à Python e Raspagem de Dados da Web
 
 - [ ] 35-1: _Aprendendo Python_
 - [ ] 35-2: _Entrada e Saída de dados_
@@ -267,14 +265,14 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [ ] 35-4: _Testes_
 - [ ] 35-5: _[Projeto - Tech news]()_
 
-##### Bloco 36: Programação Orientada a Objetos e Padrões de Projeto
+##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
 
 - [ ] 36-1: _Introdução a programção orientada a objetos_
 - [ ] 36-2: _Programção orientada a objetos na prática_
 - [ ] 36-3: _Padrões de projeto_
 - [ ] 36-4: _[Projeto - Relatório de Estoque]()_
 
-##### Bloco 37: Algoritmos e Estrutura de Dados
+##### Bloco 36: Algoritmos e Estrutura de Dados
 
 - [ ] 37-1: _Estrutura de Dados I - Arrays_
 - [ ] 37-2: _Estrutura de Dados I - Complexidade de Algoritmos_
@@ -282,13 +280,13 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [ ] 37-4: _Algoritmos de ordenação e busca_
 - [ ] 37-5: _[Projeto - Algoritmos]()_
 
-##### Bloco 38: Estrutura de Dados: Hash e Set
+##### Bloco 37: Estrutura de Dados: Hash e Set
 
 - [ ] 38-1: _Estrutura de Dados II - Hash maps & Dict_
 - [ ] 38-2: _Estrutura de Dados II - Set_
 - [ ] 38-3: _[Projeto - Restaurant Orders]()_
 
-##### Bloco 39: Estrutura de Dados: Pilhas, Filas e Listas
+##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
 
 - [ ] 39-1: _Estrutura de Dados III - Pilas_
 - [ ] 39-2: _Estrutura de Dados III - Nó & Listas ligadas_
