@@ -49,8 +49,8 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Arte com Pixels](https://leandrofcr.github.io/projects/project-3-pixel-art/)_
-- [x] 5-6: _[Projeto - Lista de tarefas](https://leandrofcr.github.io/projects/project-4-to-do-list/)_
+- [x] 5-5: _[Projeto - Arte com Pixels](https://leandrofcr.github.io/pixel-art/)_
+- [x] 5-6: _[Projeto - Lista de tarefas](https://leandrofcr.github.io/simple-to-do-list/)_
 - [x] 5-7: _[(Bônus) Projeto - Meme Generator]()_
 - [x] 5-7: _[(Bônus) Projeto - Adivinhe a Cor]()_
 - [x] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
@@ -63,7 +63,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [x] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/leandrofcr/facebook-signup-page)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
@@ -118,7 +118,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 ##### Bloco 14: Metodologias Ágeis
 
 - [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/leandrofcr/online-store)_
 
 ##### Bloco 15: Testes automatizados com React Testing Library
 
@@ -138,7 +138,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ##### Bloco 17: Projeto Jogo de Trivia
 
-- [x] 17-1: _[Projeto - Jogo de Trivia]()_
+- [x] 17-1: _[Projeto - Jogo de Trivia](https://leandrofcr.github.io/trivia-game/#/)_
 
 ##### Bloco 18: Context API e React Hooks 
 
@@ -219,7 +219,7 @@ Trybe is a web development school that has a genuine commitment to the professio
 - [x] 28-1: _NodeJS - JWT - (JSON Web Token)_
 - [x] 28-2: _NodeJS - Upload de arquivos com Multer_
 - [x] 28-3: _NodeJS - Testando APIs com Testes de Integração_
-- [x] 28-4: _[Projeto - Cookmaster]()_
+- [x] 28-4: _[Projeto - Cookmaster](https://github.com/leandrofcr/cookmaster-api)_
 
 ##### Bloco 29: Deployment
 
@@ -232,8 +232,8 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 - [x] 30-1: _Arquitetura - Princípios SOLID_
 - [x] 30-2: _ORM - Interface da aplicação com banco de dados_
-- [ ] 30-3: _ORM - Associations_
-- [ ] 30-4: _[Projeto - API de Blogs]()_
+- [x] 30-3: _ORM - Associations_
+- [x] 30-4: _[Projeto - API de Blogs]()_
 
 ##### Bloco 31: Sockets
 
