@@ -237,9 +237,9 @@ Trybe is a web development school that has a genuine commitment to the professio
 
 ##### Bloco 31: Sockets
 
-- [ ] 31-1: _Arquitetura de Software - Camada de View_
-- [ ] 31-2: _Sockets - TCP/UDP & NET_
-- [ ] 31-3: _Sockets - Socket.io_
+- [x] 31-1: _Arquitetura de Software - Camada de View_
+- [x] 31-2: _Sockets - TCP/UDP & NET_
+- [x] 31-3: _Sockets - Socket.io_
 - [ ] 31-4: _Sockets - Praticando Socket.io_
 - [ ] 31-5: _[Projeto - Webchat]()_
 
